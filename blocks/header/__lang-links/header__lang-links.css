@@ -1,0 +1,6 @@
+.header__lang-links {
+  /* transform: translate(0, 7px); */
+  padding-bottom: 4px;
+  display: flex;
+  align-items: center;
+}
