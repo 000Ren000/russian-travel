@@ -1,0 +1,26 @@
+.intro {
+  width: 96.5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  align-items: flex-start;
+  margin-left: 5%;
+}
+
+@media screen and (min-width: 768px) {
+.intro {
+ margin-left: 3%;
+}
+}
+@media screen and (min-width: 1024px) {
+.intro {
+  width: 928px;
+  margin-left: 0;
+}
+}
+@media screen and (min-width: 1280px) {
+.intro {
+width: 984px;
+}
+}
