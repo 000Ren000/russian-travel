@@ -28,7 +28,10 @@
     @import url(../blocks/intro/__text/intro__text.css);
     @import url(../blocks/intro/__title/intro__title.css);
 
-
+/* photo-grid */
+@import url(../blocks/photo-grid/photo-grid.css);
+  @import url(../blocks/photo-grid/__image/photo-grid__image.css);
+  @import url(../blocks/photo-grid/__items/photo-grid__items.css);
   .br {
   border: 1px solid red;
 }

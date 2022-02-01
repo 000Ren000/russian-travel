@@ -1,0 +1,9 @@
+.photo-grid {
+  margin: 0;
+  width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-items: center;
+
+
