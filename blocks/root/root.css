@@ -8,21 +8,12 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
   background-color: #2A2C2F;
-  color: #fff;
+  color: rgb(253, 152, 152);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
 }
 
-@media screen and (max-width: 1024px) {
- .root {
-    max-width: 1024px;
- }
-}
-@media screen and (max-width: 768px) {
-.root {
-    max-width: 768px;
- }
-}
-@media screen and (max-width: 320px) {
-    .root {
-    max-width: 320px;
- }
-}
+

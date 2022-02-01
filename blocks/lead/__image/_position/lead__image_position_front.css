@@ -1,0 +1,19 @@
+.lead__image_position_front {
+  position: absolute;
+  top: 14%;
+  left: 2%;
+  width: 95%;
+}
+
+@media screen and (min-width: 1024px) {
+.lead__image_position_front {
+  left: 5%;
+  width: 90%;
+}
+}
+@media screen and (min-width: 1280px) {
+.lead__image_position_front {
+  left: 2%;
+  width: 95%;
+}
+}

@@ -11,8 +11,20 @@
     @import url(../blocks/header/__lang-link/header__lang-link.css);
     @import url(../blocks/header/__lang-link/_type/header__lang-link_type_active.css);
 
-    .br {
-      border: 1px solid red;
-    }
+/* lead */
+@import url(../blocks/lead/lead.css);
+  @import url(../blocks/lead/__title/lead__title.css);
+  @import url(../blocks/lead/__subtitle/lead__subtitle.css);
+  @import url(../blocks/lead/__images/lead__images.css);
+  @import url(../blocks/lead/__image/lead__image.css);
+    @import url(../blocks/lead/__image/_position/lead__image_position_front.css);
+  @import url(../blocks/lead/__caption/lead__caption.css);
+
+
+
+
+  .br {
+  border: 1px solid red;
+}
 
 
