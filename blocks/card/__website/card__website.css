@@ -1,0 +1,14 @@
+.card__website {
+  
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 34px;
+}
+@media screen and (min-width: 768px) {
+.card__website {
+    width: 50%;
+  }
+}
+

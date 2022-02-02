@@ -1,0 +1,21 @@
+.place__cards {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+.place__card {
+  min-width: 720px;
+
+}
+}
+@media screen and (min-width: 1024px) {
+.place__card {
+  min-width: 928px
+}
+}
+@media screen and (min-width: 1280px) {
+.place__card {
+  min-width: 984px;
+}
+}

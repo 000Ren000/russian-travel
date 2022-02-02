@@ -32,6 +32,27 @@
 @import url(../blocks/photo-grid/photo-grid.css);
   @import url(../blocks/photo-grid/__image/photo-grid__image.css);
   @import url(../blocks/photo-grid/__items/photo-grid__items.css);
+
+  /* place */
+@import url(../blocks/place/place.css);
+  @import url(../blocks/place/__cards/place__cards.css);
+
+  /* card */
+@import url(../blocks/card/card.css);
+ @import url(../blocks/card/__content-text/card__content-text.css);
+ @import url(../blocks/card/__content/card__content.css);
+ @import url(../blocks/card/__header/card__header.css);
+ @import url(../blocks/card/__image/card__image.css);
+ @import url(../blocks/card/__link/card__link.css);
+ @import url(../blocks/card/__paragraph/card__paragraph.css);
+ @import url(../blocks/card/__title/card__title.css);
+ @import url(../blocks/card/__web-header/card__web-header.css);
+ @import url(../blocks/card/__website/card__website.css);
+
+
+
+
+
   .br {
   border: 1px solid red;
 }

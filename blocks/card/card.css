@@ -1,0 +1,24 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-flow: column wrap;
+  align-self: center;
+}
+
+@media screen and (min-width: 768px) {
+.card {
+  margin-left: 5%;
+}
+}
+@media screen and (min-width: 1024px) {
+.card {
+  margin-left: 5%;
+}
+}
+@media screen and (min-width: 1280px) {
+.card {
+margin-left: 12%;
+margin-right: 8%;
+}
+}
