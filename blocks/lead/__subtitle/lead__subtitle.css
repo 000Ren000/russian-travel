@@ -9,12 +9,14 @@
   text-align: center;
   color: #FFFFFF;
   width: 288px;
-
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 404px) {
 .lead__subtitle {
   font-size: 18px;
   line-height: 24px;
+}
 }
 @media screen and (min-width: 768px) {
 .lead__subtitle {
@@ -23,10 +25,6 @@
   width: 640px;
   margin-bottom: 56px;
 }
-
-}
-@media screen and (min-width: 1024px) {
-
 }
 @media screen and (min-width: 1280px) {
 .lead__subtitle {

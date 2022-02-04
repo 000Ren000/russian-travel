@@ -7,7 +7,9 @@
   text-align: center;
   color: #FFFFFF;
   max-width: 360px;
- position: relative;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 768px) {
 .cover__subtitle {
@@ -15,13 +17,4 @@
   line-height: 22px;
 }
 }
-@media screen and (min-width: 1024px) {
-.cover__subtitle {
 
-}
-}
-@media screen and (min-width: 1280px) {
-.cover__subtitle {
-
-}
-}

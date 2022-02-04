@@ -10,17 +10,16 @@
 
 @media screen and (min-width: 642px) {
 .card__header {
-  padding: 56px 16px 43px 70px;
-
+  padding: 56px 0 43px 70px;
   width: 90%;
   align-self: stretch;
 }
 }
 @media screen and (min-width: 768px) {
 .card__header {
-  padding: 56px 16px 43px 0;
+  padding: 56px 0 43px 0;
   justify-content: space-between;
-  width: 100%;
+  width: 98%;
   align-self: stretch;
 }
 }
@@ -29,6 +28,5 @@
 .card__header {
   padding-bottom: 48px;
   padding-top: 65px;
-
 }
 }

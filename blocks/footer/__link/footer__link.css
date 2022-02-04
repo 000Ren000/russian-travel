@@ -8,6 +8,8 @@ line-height: 24px;
 color: #FFFFFF;
 opacity: 1;
 transition: opacity .2s ease;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
 }
 .footer__link:hover {
   opacity: .8;
@@ -18,13 +20,4 @@ transition: opacity .2s ease;
   line-height: 18px;
 }
 }
-@media screen and (min-width: 1024px) {
-.footer__link {
 
-}
-}
-@media screen and (min-width: 1280px) {
-.footer__link {
-
-}
-}

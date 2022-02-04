@@ -7,6 +7,8 @@
   font-size: 32px;
   line-height: 35px;
   color: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 768px) {
 .intro__title {
@@ -19,13 +21,10 @@
 @media screen and (min-width: 1024px) {
 .intro__title {
   margin-top: 92px;
-
-
 }
 }
 @media screen and (min-width: 1280px) {
 .intro__title {
   margin-top: 74px;
-
 }
 }

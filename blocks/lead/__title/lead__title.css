@@ -9,6 +9,8 @@
   text-align: center;
   color: #FFFFFF;
   width: 288px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 404px) {
   .lead__title {
@@ -24,11 +26,5 @@ line-height: 100px;
 margin-bottom: 32px;
 width: 720px;
 }
-}
-@media screen and (min-width: 1024px) {
-
-}
-@media screen and (min-width: 1280px) {
-
 }
 

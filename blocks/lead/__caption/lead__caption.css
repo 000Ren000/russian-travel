@@ -11,6 +11,8 @@
   text-transform: uppercase;
   color: #FFFFFF;
   align-self: flex-start;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 768px) {
 .lead__caption {
@@ -21,7 +23,4 @@
 .lead__caption {
   margin-left: 0;
 }
-}
-@media screen and (min-width: 1280px) {
-
 }

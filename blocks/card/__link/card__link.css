@@ -8,6 +8,8 @@ color: #FFFFFF;
 cursor: pointer;
 opacity: 1;
 transition: opacity .2s ease;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
 }
 
 .card__link:hover {
