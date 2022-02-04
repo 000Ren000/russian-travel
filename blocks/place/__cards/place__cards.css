@@ -11,7 +11,7 @@
 }
 @media screen and (min-width: 1024px) {
 .place__card {
-  min-width: 928px
+  min-width: 928px;
 }
 }
 @media screen and (min-width: 1280px) {
