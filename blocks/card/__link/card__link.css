@@ -6,4 +6,12 @@ font-size: 18px;
 text-decoration-line: underline;
 color: #FFFFFF;
 cursor: pointer;
+opacity: 1;
+transition: opacity .2s ease;
 }
+
+.card__link:hover {
+  opacity: .8;
+}
+
+
