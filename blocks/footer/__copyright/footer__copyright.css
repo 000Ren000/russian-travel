@@ -1,3 +1,28 @@
 .footer__copyright {
-  
+  margin-bottom: 32px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  color: #FFFFFF;
 }
+@media screen and (min-width: 768px) {
+.footer__copyrigth {
+  font-size: 14px;
+  line-height: 16px;
+}
+}
+@media screen and (min-width: 1024px) {
+.footer__copyrigth {
+
+}
+}
+@media screen and (min-width: 1280px) {
+.footer__copyrigth {
+
+}
+}
+
+
