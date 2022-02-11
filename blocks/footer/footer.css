@@ -5,23 +5,21 @@ footer {
   flex-direction: column;
   justify-content: flex-start;
   padding-top: 63px;
-  padding-left: 18px;
-  padding-right: 18px;
 }
 @media screen and (min-width: 768px) {
 .footer {
-  width: 95%;
+  width: 100%;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
   padding-top: 87px;
-  padding-left: 24px;
+
 }
 }
 @media screen and (min-width: 1024px) {
 .footer {
   padding-top: 90px;
-  padding-left: 47px;
+  /* padding-left: 47px; */
 }
 }
 
