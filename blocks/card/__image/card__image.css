@@ -1,20 +1,21 @@
 .card__image {
-  width: 310px;
-  height: 310px;
+  min-width: 310px;
+  min-height: 310px;
+  max-width: 340px;
+  max-height: 340px;
   margin: 0;
   margin-bottom: 37px;
 
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 682px) {
 .card__image {
-  width: 340px;
-  height: 340px;
+ margin-bottom: 0;
 }
 }
 @media screen and (min-width: 1024px) {
 .card__image {
-  width: 440px;
-  height: 440px;
+ min-width: 440px;
+ min-height: 440px;
 }
 }
 @media screen and (min-width: 1280px) {

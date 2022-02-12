@@ -1,10 +1,16 @@
 .card__content-text {
-  min-width: 280px;
-  width: 280px;
-  padding: 0px 16px 0px 16px;
+  min-width: 310px;
+  max-width: 340px;
 }
-@media screen and (min-width: 768px) {
-  .card__content-text {
-    width: 49%;
+
+@media screen and (min-width: 680px) {
+.card__content-text {
+max-width: calc(100% - 344px - 28px);
 }
 }
+@media screen and (min-width: 1024px) {
+.card__content-text {
+max-width: calc(100% - 440px - 28px);
+}
+}
+

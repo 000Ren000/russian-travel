@@ -1,25 +1,25 @@
 .card__header {
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-end;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
-  padding: 52px 16px 36px 16px;
-  width: 290px;
+  padding: 52px 0 36px 0;
+  width: 100%;
   align-self: center;
+  margin-left: 10px;
 }
 
-@media screen and (min-width: 642px) {
+@media screen and (min-width: 621px) {
 .card__header {
-  padding: 56px 0 43px 70px;
-  width: 90%;
-  align-self: stretch;
+  padding: 56px 0 43px;
+
 }
 }
 @media screen and (min-width: 768px) {
 .card__header {
   padding: 56px 0 43px 0;
   justify-content: space-between;
-  width: 98%;
+  /* width: 98%; */
   align-self: stretch;
 }
 }

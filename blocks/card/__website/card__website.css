@@ -1,13 +1,21 @@
 .card__website {
+  min-width: 310px;
+  width: 340px;
   height: 46px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   margin-top: 34px;
+  align-self: flex-end;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 682px) {
 .card__website {
-    width: 50%;
-  }
+  width: calc(100% - 344px - 28px);
+}
+}
+@media screen and (min-width: 1024px) {
+.card__website {
+  width: calc(100% - 440px - 28px);
+}
 }
 
