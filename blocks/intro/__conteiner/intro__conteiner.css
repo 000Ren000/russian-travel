@@ -1,0 +1,32 @@
+.intro__conteiner {
+  margin: 0;
+  width: 95%;
+  margin-left: 0;
+  margin-right: 0;
+
+  display: flex;
+  flex-flow: wrap column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-self: center;
+}
+
+
+@media screen and (min-width: 768px) {
+.intro__conteiner {
+ margin-left: 24px;
+ margin-right: 24px;
+
+}
+}
+@media screen and (min-width: 1024px) {
+.intro__conteiner {
+  width: 928px;
+  margin-left: 0;
+}
+}
+@media screen and (min-width: 1280px) {
+.intro__conteiner {
+  width: 984px;
+}
+}

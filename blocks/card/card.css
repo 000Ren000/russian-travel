@@ -8,8 +8,14 @@
 
 @media screen and (min-width: 680px) {
 .card {
+/* margin-left: 12px;
+margin-right: 12px; */
+}
+}
+
+@media screen and (min-width: 720px) {
+.card {
 margin-left: 24px;
 margin-right: 24px;
 }
 }
-
