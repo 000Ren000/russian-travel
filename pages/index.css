@@ -55,7 +55,6 @@
 @import url("../blocks/cover/cover.css");
   @import url("../blocks/cover/__subtitle/cover__subtitle.css");
   @import url("../blocks/cover/__title/cover__title.css");
-  @import url("../blocks/cover/__background/cover__background.css");
   @import url("../blocks/cover/__content/cover__content.css");
   @import url("../blocks/cover/__link/cover__link.css");
 
@@ -64,17 +63,4 @@
     @import url("../blocks/footer/__link/footer__link.css");
     @import url("../blocks/footer/__links/footer__links.css");
     @import url("../blocks/footer/__menu-item/footer__menu-item.css");
-
-
-    .br {
-      border: 1px solid red;
-    }
-
-    .br__green {
-      border: 1px solid green;
-    }
-    .br__blue {
-      border: 1px solid cyan;
-    }
-
 
