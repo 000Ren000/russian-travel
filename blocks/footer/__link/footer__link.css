@@ -1,15 +1,17 @@
 .footer__link {
   text-decoration: none;
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 24px;
-line-height: 24px;
-color: #FFFFFF;
-opacity: 1;
-transition: opacity .2s ease;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFFFFF;
+
+  opacity: 1;
+  transition: opacity .2s ease;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 .footer__link:hover {
   opacity: .8;

@@ -4,25 +4,13 @@
   justify-content: flex-start;
   padding: 0;
   margin: 0;
-  margin-left: 18px;
   list-style: none;
 }
 
 
 
 @media screen and (min-width: 768px) {
-.footer__links {
-  flex-flow: wrap row;
-}
-}
-@media screen and (min-width: 1024px) {
-.footer__links {
-  margin-left: 47px;
-}
-}
-
-@media screen and (min-width: 1184px) {
-.footer__links {
-  margin-left: 0;
-}
+  .footer__links {
+    flex-flow: wrap row;
+  }
 }
