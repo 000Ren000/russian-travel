@@ -1,5 +1,8 @@
 # Проект: Путешествие по России
 
+<img src="./images/README_header.png">
+
+
 ### Обзор
 * Интро
 * Технические особенности
@@ -29,5 +32,5 @@
 [Ссылка на сайт](https://000ren000.github.io/russian-travel/)
 
 
-<img src="./images/README_header.png">
+
 
