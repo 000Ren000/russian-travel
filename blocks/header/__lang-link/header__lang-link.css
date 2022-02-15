@@ -6,22 +6,15 @@
   line-height: 20px;
   color: #FFFFFF;
   margin: 0;
-  margin-right: 16px;
   text-decoration: none;
   }
 .header__lang-link:last-child {
   margin-right: 0;
 }
-@media screen and (min-width: 768px) {
-.header__lang-link {
-  font-size: 24px;
-  line-height: 28px;
-  margin-right: 9px;
-}
-}
 
-@media screen and (min-width: 1024px) {
-.header__lang-link {
-  margin-right: 23px;
-}
+@media screen and (min-width: 768px) {
+  .header__lang-link {
+    font-size: 24px;
+    line-height: 28px;
+  }
 }

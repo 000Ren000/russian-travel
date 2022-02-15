@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-<img src="./images/README_header.png">
+<img src="./images/README_header.png" alt="Скриншот шапки сайта">
 
 
 ### Обзор
