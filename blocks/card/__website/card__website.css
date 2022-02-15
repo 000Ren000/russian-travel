@@ -1,7 +1,6 @@
 .card__website {
   min-width: 310px;
   width: 340px;
-  height: 46px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
