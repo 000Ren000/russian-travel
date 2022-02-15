@@ -29,5 +29,5 @@
 [Ссылка на сайт](https://000ren000.github.io/russian-travel/)
 
 
-[Фотография шапки сайта](/images/README_header.png)
+<img src="./images/README_header.png">
 
