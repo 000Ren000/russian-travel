@@ -11,6 +11,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   max-width: max-content;
+  margin-top: 12px;
 }
 
 .card__link:hover {

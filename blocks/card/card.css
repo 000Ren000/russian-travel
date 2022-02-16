@@ -4,11 +4,47 @@
   align-content: center;
   flex-flow: column wrap;
   align-self: center;
+  margin: 0;
+  padding-top: 22px;
+  margin-bottom: 0px;
 }
 
+.card:nth-of-type(1) {
+  padding-top: 56px;
+  margin-bottom: 0;
+}
+.card:nth-of-type(2) {
+  padding-top: 50px;
+  margin-bottom: 0;
+}
+.card:nth-of-type(5) {
+  padding-top: 50px;
+  margin-bottom: 0;
+}
 @media screen and (min-width: 720px) {
   .card {
     margin-left: 24px;
     margin-right: 24px;
+  }
+}
+
+@media screen and (min-width: 621px) {
+  .card {
+    padding-top: 56px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .card {
+  }
+}
+@media screen and (min-width: 1024px) {
+  .card {
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .card {
+    padding-top: 65px;
+    margin-bottom: 12px;
   }
 }

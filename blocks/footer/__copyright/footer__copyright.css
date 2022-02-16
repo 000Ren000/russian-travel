@@ -1,5 +1,5 @@
 .footer__copyright {
-  margin: 0 18px 32px 18px;
+  margin: 14px 18px 32px 18px;
   font-family: Inter, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -10,7 +10,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 768px) {
-  .footer__copyrigth {
+  .footer__copyright {
     line-height: 16px;
+  }
+}
+@media screen and (min-width: 1184px) {
+  .footer__copyright {
+    margin-right: 0;
   }
 }

@@ -1,6 +1,9 @@
 .card__content-text {
-  min-width: 310px;
+  /* min-width: 310px; */
   max-width: 340px;
+  margin-left: 4px;
+  width: 288px;
+
 }
 
 @media screen and (min-width: 680px) {

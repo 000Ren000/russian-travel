@@ -1,17 +1,17 @@
 .place__cards {
   margin: 0;
   padding: 0px;
-  margin-bottom: 46px;
   width: 100%;
 }
 
 @media screen and (min-width: 1024px) {
-  .place__card {
+  .place__cards {
     min-width: 928px;
   }
 }
 @media screen and (min-width: 1280px) {
-  .place__card {
+  .place__cards {
     min-width: 984px;
+    margin-bottom: 88px;
   }
 }
