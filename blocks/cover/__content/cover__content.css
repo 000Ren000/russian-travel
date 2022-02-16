@@ -22,20 +22,15 @@
 }
 @media screen and (min-width: 450px) {
   .cover__content {
-    padding-top: 13%;
-    padding-bottom: 13%;
-  }
-}
-@media screen and (min-width: 490px) {
-  .cover__content {
     padding-top: 15%;
     padding-bottom: 15%;
   }
 }
 
-@media screen and (min-width: 490px) {
+
+@media screen and (min-width: 1280px) {
   .cover__content {
-    padding-top: 19%;
-    padding-bottom: 19%;
+    padding-top: 21%;
+    padding-bottom: 20.5%;
   }
 }

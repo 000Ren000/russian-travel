@@ -12,8 +12,8 @@
 @media screen and (min-width: 768px) {
   .footer__copyright {
     line-height: 16px;
-    margin-top: 7px;
-    padding-right: 8px;
+    margin-top: 5px;
+    padding-right: 12px;
   }
 }
 @media screen and (min-width: 1024px) {

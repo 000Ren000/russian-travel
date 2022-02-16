@@ -30,3 +30,8 @@
     width: 440px;
   }
 }
+@media screen and (min-width: 1280px) {
+  .card__title {
+   margin-left: 9px;
+  }
+}

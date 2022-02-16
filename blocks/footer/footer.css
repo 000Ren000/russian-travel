@@ -12,7 +12,8 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding-top: 82px;
+    padding-top: 85px;
+    margin-left: 8px;
   }
 }
 @media screen and (min-width: 1024px) {

@@ -27,5 +27,6 @@
   .card__image {
     min-width: 460px;
     min-height: 460px;
+    margin-left: 20px;
   }
 }
