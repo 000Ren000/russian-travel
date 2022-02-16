@@ -11,13 +11,13 @@
 }
 
 @media screen and (min-width: 768px) {
-  .header__lang-item{
+  .header__lang-item {
     margin-right: 9px;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .header__lang-item{
+  .header__lang-item {
     margin-right: 23px;
   }
 }

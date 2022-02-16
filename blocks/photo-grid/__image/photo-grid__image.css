@@ -2,17 +2,17 @@
   height: 216px;
 }
 @media screen and (min-width: 768px) {
-.photo-grid__image {
-  height: 264px;
-}
+  .photo-grid__image {
+    height: 264px;
+  }
 }
 @media screen and (min-width: 1024px) {
-.photo-grid__image {
-  height: 225px;
-}
+  .photo-grid__image {
+    height: 225px;
+  }
 }
 @media screen and (min-width: 1280px) {
-.photo-grid__image {
-  height: 213px;
-}
+  .photo-grid__image {
+    height: 213px;
+  }
 }

@@ -20,18 +20,18 @@
 .cover__link::before {
   position: absolute;
   display: block;
-  content: '';
+  content: "";
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  background: #2A2C2F;
+  background: #2a2c2f;
   opacity: 0.3;
-  transition: opacity .4s ease-in;
+  transition: opacity 0.4s ease-in;
 }
 
 .cover__link:hover::before {
-  opacity: .8;
+  opacity: 0.8;
 }
 
 /* @media screen and (min-width: 353px) {

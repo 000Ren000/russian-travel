@@ -2,25 +2,25 @@
   margin: 0;
   margin-top: 6px;
   margin-left: 15px;
-  font-family: Inter, 'Helvetica Neue', Arial, sans-serif; ;
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
   align-self: flex-start;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 768px) {
-.lead__caption {
-  margin-left: 26px;
-}
+  .lead__caption {
+    margin-left: 26px;
+  }
 }
 @media screen and (min-width: 1024px) {
-.lead__caption {
-  margin-left: 0;
-}
+  .lead__caption {
+    margin-left: 0;
+  }
 }

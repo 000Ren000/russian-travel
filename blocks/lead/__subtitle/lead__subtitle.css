@@ -1,34 +1,33 @@
 .lead__subtitle {
   margin: 0;
   margin-bottom: 40px;
-  font-family: Inter, 'Helvetica Neue', Arial, sans-serif; ;
-;
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   width: 288px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 404px) {
-.lead__subtitle {
-  font-size: 18px;
-  line-height: 24px;
-}
+  .lead__subtitle {
+    font-size: 18px;
+    line-height: 24px;
+  }
 }
 @media screen and (min-width: 768px) {
-.lead__subtitle {
-  font-size: 30px;
-  line-height: 36px;
-  width: 640px;
-  margin-bottom: 56px;
-}
+  .lead__subtitle {
+    font-size: 30px;
+    line-height: 36px;
+    width: 640px;
+    margin-bottom: 56px;
+  }
 }
 @media screen and (min-width: 1280px) {
-.lead__subtitle {
-  margin-bottom: 64px;
-}
+  .lead__subtitle {
+    margin-bottom: 64px;
+  }
 }

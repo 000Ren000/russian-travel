@@ -4,12 +4,12 @@
 }
 
 @media screen and (min-width: 1024px) {
- .footer__menu {
-   margin-left: 47px;
- }
+  .footer__menu {
+    margin-left: 47px;
+  }
 }
 @media screen and (min-width: 1184px) {
- .footer__menu {
-  margin-left: 0px;
- }
+  .footer__menu {
+    margin-left: 0px;
+  }
 }

@@ -1,12 +1,12 @@
 .intro__list {
-font-family: Inter;
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 18px;
-color: #FFFFFF;
-margin: 0;
-padding: 0;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

@@ -5,18 +5,13 @@
   width: 100%;
 }
 
-@media screen and (min-width: 768px) {
-.place__card {
-  /* min-width: 720px; */
-}
-}
 @media screen and (min-width: 1024px) {
-.place__card {
-  min-width: 928px;
-}
+  .place__card {
+    min-width: 928px;
+  }
 }
 @media screen and (min-width: 1280px) {
-.place__card {
-  min-width: 984px;
-}
+  .place__card {
+    min-width: 984px;
+  }
 }

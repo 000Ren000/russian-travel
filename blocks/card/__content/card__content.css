@@ -4,25 +4,24 @@
   justify-content: center;
   flex-wrap: wrap;
   width: 100%;
-
 }
 @media screen and (min-width: 698px) {
-.card__content {
-justify-content: space-around;
-}
+  .card__content {
+    justify-content: space-around;
+  }
 }
 @media screen and (min-width: 768px) {
-.card__content {
-  max-width: 720px;
-}
+  .card__content {
+    max-width: 720px;
+  }
 }
 @media screen and (min-width: 1024px) {
-.card__content {
-  max-width: 928px;
-}
+  .card__content {
+    max-width: 928px;
+  }
 }
 @media screen and (min-width: 1280px) {
-.card__content {
-  max-width: 1030px ;
-}
+  .card__content {
+    max-width: 1030px;
+  }
 }

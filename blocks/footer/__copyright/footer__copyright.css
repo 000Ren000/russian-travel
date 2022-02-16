@@ -1,11 +1,11 @@
 .footer__copyright {
   margin: 0 18px 32px 18px;
-  font-family: Inter, 'Helvetica Neue', Arial, sans-serif; ;
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 14px;
-  color: #FFFFFF;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -14,4 +14,3 @@
     line-height: 16px;
   }
 }
-

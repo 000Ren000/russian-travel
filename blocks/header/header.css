@@ -1,14 +1,13 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    padding-bottom: 48px;
-
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 48px;
 }
 
 @media screen and (min-width: 1280px) {
   .header {
-  padding-bottom: 74px;
+    padding-bottom: 74px;
   }
 }
