@@ -1,6 +1,6 @@
 .footer__link {
   text-decoration: none;
-  font-family: Inter;
+  font-family: Inter, 'Helvetica Neue', Arial, sans-serif; ;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -9,7 +9,7 @@
 
   opacity: 1;
   transition: opacity .2s ease;
-  
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
