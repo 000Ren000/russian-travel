@@ -23,7 +23,7 @@
 @media screen and (min-width: 1024px) {
   .card__website {
     width: calc(100% - 440px - 28px);
-    max-width: 456px;
+    max-width: 446px;
   }
 }
 @media screen and (min-width: 1280px) {

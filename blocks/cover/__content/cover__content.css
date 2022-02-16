@@ -9,16 +9,33 @@
   padding-bottom: 7%;
 }
 
+@media screen and (min-width: 360px) {
+  .cover__content {
+    padding-top: 9%;
+    padding-bottom: 9%;
+  }
+}@media screen and (min-width: 400px) {
+  .cover__content {
+    padding-top: 11%;
+    padding-bottom: 11%;
+  }
+}
+@media screen and (min-width: 450px) {
+  .cover__content {
+    padding-top: 13%;
+    padding-bottom: 13%;
+  }
+}
 @media screen and (min-width: 490px) {
   .cover__content {
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 15%;
+    padding-bottom: 15%;
   }
 }
 
 @media screen and (min-width: 490px) {
   .cover__content {
-    padding-top: 15%;
-    padding-bottom: 15%;
+    padding-top: 19%;
+    padding-bottom: 19%;
   }
 }

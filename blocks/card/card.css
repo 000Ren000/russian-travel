@@ -41,7 +41,25 @@
 }
 @media screen and (min-width: 1024px) {
   .card {
+    padding-top: 62px;
   }
+
+  .card:nth-of-type(1) {
+  padding-top: 64px;
+  margin-bottom: 0;
+}
+.card:nth-of-type(2) {
+  padding-top: 64px;
+  margin-bottom: 0;
+}
+.card:nth-of-type(4) {
+  padding-top: 79px;
+  margin-bottom: 0;
+}
+.card:nth-of-type(5) {
+  padding-top: 82px;
+  margin-bottom: 0;
+}
 }
 
 @media screen and (min-width: 1280px) {
