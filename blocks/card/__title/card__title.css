@@ -14,9 +14,13 @@
   .card__title {
     font-size: 42px;
     line-height: 46px;
-    width: 320px;
+    width: 330px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    /* mi÷n-height: 92px; */
+    align-self: flex-start;
+    justify-self: flex-start
+
   }
 }
 @media screen and (min-width: 1024px) {

@@ -6,6 +6,7 @@
 
 }
 
+
 @media screen and (min-width: 680px) {
   .card__content-text {
     width: calc(100% - 344px - 28px);
@@ -14,7 +15,8 @@
 
 @media screen and (min-width: 768px) {
   .card__content-text {
-    max-width: 352px;
+    max-width: 340px;
+    margin-left: 31px;
   }
 }
 @media screen and (min-width: 1024px) {

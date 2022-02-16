@@ -14,7 +14,9 @@
 }
 @media screen and (min-width: 768px) {
   .card__website {
-    max-width: 352px;
+    max-width: 330px;
+    margin-left: 20px;
+    /* margin-left: 60px; */
   }
 }
 
