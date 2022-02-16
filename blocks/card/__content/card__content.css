@@ -1,12 +1,29 @@
 .card__content {
-   display: flex;
+  display: flex;
+  align-self: center;
   justify-content: center;
+  /* align-items: center; */
   flex-wrap: wrap;
   width: 100%;
+
 }
 @media screen and (min-width: 698px) {
 .card__content {
-justify-content: space-between;
+justify-content: space-around;
 }
 }
-
+@media screen and (min-width: 768px) {
+.card__content {
+  max-width: 720px;
+}
+}
+@media screen and (min-width: 1024px) {
+.card__content {
+  max-width: 928px;
+}
+}
+@media screen and (min-width: 1280px) {
+.card__content {
+  max-width: 1030px ;
+}
+}

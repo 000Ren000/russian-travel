@@ -1,15 +1,16 @@
 .card__link {
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-text-decoration-line: underline;
-color: #FFFFFF;
-cursor: pointer;
-opacity: 1;
-transition: opacity .2s ease;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity .2s ease;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: max-content;
 }
 
 .card__link:hover {
