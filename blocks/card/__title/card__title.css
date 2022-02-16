@@ -19,8 +19,7 @@
     -moz-osx-font-smoothing: grayscale;
     /* mi÷n-height: 92px; */
     align-self: flex-start;
-    justify-self: flex-start
-
+    justify-self: flex-start;
   }
 }
 @media screen and (min-width: 1024px) {
@@ -32,6 +31,6 @@
 }
 @media screen and (min-width: 1280px) {
   .card__title {
-   margin-left: 9px;
+    margin-left: 9px;
   }
 }
