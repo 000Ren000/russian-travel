@@ -1,11 +1,11 @@
 .card__website {
-  min-width: 310px;
-  width: 340px;
+  width: 300px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   margin-top: 34px;
   align-self: flex-end;
+  margin-left: 15px;
 }
 @media screen and (min-width: 682px) {
   .card__website {

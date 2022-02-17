@@ -1,6 +1,6 @@
 .card__title {
-  min-width: 310px;
-  width: 340px;
+  /* min-width: 310px; */
+  width: 300px;
   margin: 0;
   font-family: Inter, "Helvetica Neue", Arial, sans-serif;
   font-style: normal;
@@ -8,6 +8,7 @@
   font-size: 32px;
   line-height: 35px;
   color: #ffffff;
+  padding-left: 15px;
 }
 
 @media screen and (min-width: 768px) {
