@@ -13,17 +13,18 @@
   .footer__copyright {
     line-height: 16px;
     margin-top: 5px;
-    padding-right: 12px;
+    padding-right: 7px;
   }
 }
 @media screen and (min-width: 1024px) {
   .footer__copyright {
-   padding-right: 30px;
+   padding-right: 25px;
    margin-top: 4px;
   }
 }
 @media screen and (min-width: 1184px) {
   .footer__copyright {
     margin-right: 0;
-  }
+    padding-right: 0;
+}
 }
