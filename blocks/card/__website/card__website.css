@@ -3,9 +3,12 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-top: 34px;
   align-self: flex-end;
   margin-left: 15px;
+  margin-top: 34px;
+}
+.card__website:first-child {
+  margin-top: 33px;
 }
 @media screen and (min-width: 682px) {
   .card__website {
@@ -16,13 +19,17 @@
   .card__website {
     max-width: 330px;
     margin-left: 0;
+    margin-top: 0;
   }
+  .card__website:first-child {
+  margin-top: 34px;
+}
 }
 
 @media screen and (min-width: 1024px) {
   .card__website {
     width: calc(100% - 440px - 28px);
-    max-width: 446px;
+    max-width: 441px;
   }
 }
 @media screen and (min-width: 1280px) {

@@ -2,7 +2,8 @@
   /* min-width: 310px; */
   max-width: 340px;
   margin-left: 4px;
-  width: 288px;
+  /* margin-right: 4px; */
+  width: 285px;
 }
 
 @media screen and (min-width: 680px) {
@@ -13,14 +14,14 @@
 
 @media screen and (min-width: 768px) {
   .card__content-text {
-    max-width: 340px;
+    max-width: 350px;
     margin-left: 31px;
   }
 }
 @media screen and (min-width: 1024px) {
   .card__content-text {
     width: calc(100% - 440px - 28px);
-    max-width: 446px;
+    max-width: 441px;
   }
 }
 

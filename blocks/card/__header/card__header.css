@@ -30,14 +30,14 @@
 }
 @media screen and (min-width: 1024px) {
   .card__header {
-    max-width: 928px;
-    margin-left: 12px;
+    max-width: 935px;
+    margin-left: 0px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .card__header {
     padding-bottom: 48px;
-    max-width: 1030px;
+    max-width: 1070px;
   }
 }
