@@ -7,7 +7,6 @@
   width: 100%;
   align-self: center;
   /* margin-left: 30px; */
-
 }
 
 @media screen and (min-width: 621px) {
@@ -20,14 +19,10 @@
   .card__header {
     justify-content: space-around;
     margin-left: 0;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  .card__header {
     max-width: 730px;
   }
 }
+
 @media screen and (min-width: 1024px) {
   .card__header {
     max-width: 935px;
