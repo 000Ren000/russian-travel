@@ -10,7 +10,6 @@
 }
 .card:first-child {
   padding-top: 50px;
-  margin-bottom: 23px;
 }
 .card:last-child {
   margin-bottom: 26px;
@@ -35,7 +34,6 @@
   }
   .card:first-child {
     padding-top: 56px;
-    margin-bottom: 4px;
   }
   .card:last-child {
     margin-bottom: 52px;
@@ -47,7 +45,6 @@
   }
   .card:first-child {
     padding-top: 65px;
-    margin-bottom: 4px;
   }
   .card:last-child {
     margin-bottom: 0;
